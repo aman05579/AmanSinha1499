@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanSinha1499
 - 👀 I’m interested in Software development and Machine Learning.
-- 🌱 I’m currently pursuing B.Tech from IIT Roorkee 2019-23
+- 🌱 Currently pursuing my B.tech degree at IIT ROORKEE in the field of Electronics and Communication Engineering.
 - 📫 Linkedin - https://www.linkedin.com/in/aman-sinha-bb8a0a1a6/
 
 <!---
